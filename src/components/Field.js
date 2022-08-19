@@ -6,7 +6,7 @@ const Field = () => {
 
 
     return (
-        <div style={{ width: '500px', height: '500px', backgroundColor: 'yellow'}}>
+        <div style={{ width: '500px', height: '500px', backgroundColor: 'yellow', position: 'relative'}}>
 
         <Bouncer />
 
